@@ -6,7 +6,7 @@ Group: K4111c
 Author: Lesonen Matvey Olegovich    
 Lab: Lab2    
 Date of create: 14.11.2022    
-Date of finished: 
+Date of finished: 17.11.2022
 ___
 ## Ответы на вопросы
 ### 1. Что сейчас произошло и что сделали команды указанные ранее?

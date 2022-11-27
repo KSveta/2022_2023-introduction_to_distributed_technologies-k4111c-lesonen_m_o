@@ -15,7 +15,7 @@ spec:
         app: lab2-web-app
     spec: 
       containers: 
-      - name: lab2-web-app
+      - name: http
         image: ifilyaninitmo/itdt-contained-frontend:master
         ports: 
         - containerPort: 3000
